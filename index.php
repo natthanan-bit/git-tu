@@ -1,1 +1,4 @@
-<?php echo "XD"?>
+<?php 
+    echo "<h1>XD</h1>"
+    echo "<h1>XDD</h1>"
+    ?>
